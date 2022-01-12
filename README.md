@@ -6,4 +6,4 @@ The bot is able to detect to answer to questions about age, height or the reques
 Photos are scraped from google images while the questions are passed to google and the result is scrapped. 
 We use the request library for this functionality.
 
-<img src="example.jpg" width="465" height="579" />
+<img src="ejemplo.jpg" width="465" height="579" />
