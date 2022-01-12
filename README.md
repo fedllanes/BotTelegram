@@ -7,5 +7,3 @@ Photos are scraped from google images while the questions are passed to google a
 We use the request library for this functionality.
 
 <img src="example.jpg" width="465" height="579" />
-
-![example](example.jpg)
